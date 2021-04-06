@@ -56,7 +56,7 @@ This application is an Admin Panel that permits a user who is logged in as Admin
 
 Clone this repository
 ```
-git clone https://github.com/AwaMelvine/laravel-manage-companies.git
+git clone https://github.com/VimalanVE/Heptagon
 ```
 Create a MySQL database and give it  a name say `heptagon_db`
 Create a `.env` file in the root of your application and replace the username, password and database fields with your corresponding MySQL database details
